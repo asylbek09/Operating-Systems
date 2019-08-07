@@ -1,2 +1,2 @@
 # Operating-Systems
-Projects from Operating Systems class
+Operating Systems projects, built using C++
